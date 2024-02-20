@@ -1,0 +1,9 @@
+dist
+build
+**/bin
+**/obj
+**/.toolstarget
+**/sqlite3
+**/.vs
+**/*.pyc
+**/node_modules
